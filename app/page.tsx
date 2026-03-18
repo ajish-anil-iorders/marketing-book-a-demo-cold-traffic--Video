@@ -271,6 +271,27 @@ export default function IOrdersPage() {
         </div>
       </section>
 
+      <section className="io-video-section">
+        <div className="io-shell">
+          <div className="io-video-wrap">
+            <iframe
+              src="https://www.youtube.com/embed/Zau4mrhzayY"
+              title="iOrders - See how it works"
+              width="340"
+              height="605"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+              style={{
+                border: "none",
+                borderRadius: "16px",
+                boxShadow: "0 8px 30px rgba(0,0,0,0.12)",
+                maxWidth: "100%",
+              }}
+            ></iframe>
+          </div>
+        </div>
+      </section>
+
       <section className="io-section io-section-soft">
         <div className="io-shell">
           <div className="io-section-head io-section-head-center">

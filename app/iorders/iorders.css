@@ -992,3 +992,31 @@ body {
     padding-bottom: 48px;
   }
 }
+
+/* ── Video Short Section ── */
+.io-video-section {
+  padding: 48px 0;
+  background: #f4f4f5;
+}
+
+.io-video-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.io-video-short {
+  width: 340px;
+  height: 605px;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+@media (max-width: 480px) {
+  .io-video-short {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 16;
+  }
+}

@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:www.iorders.ca)",
-      "Bash(npx next:*)"
+      "Bash(npx next:*)",
+      "Bash(npm install:*)"
     ]
   }
 }
