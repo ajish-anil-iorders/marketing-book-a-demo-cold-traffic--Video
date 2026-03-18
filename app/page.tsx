@@ -184,7 +184,7 @@ export default function IOrdersPage() {
             </div>
 
             <p className="io-social-proof">
-              Trusted by thousands of restaurants across North America
+              Trusted by <strong>thousands</strong> of restaurants across North America
             </p>
 
 <div className="calculator">
@@ -460,7 +460,7 @@ export default function IOrdersPage() {
               <div style={{ transform: "scale(1.15)", transformOrigin: "top left", width: "86.96%" }}>
                 <iframe
                   className="airtable-embed"
-                  src="https://airtable.com/embed/appYDscPHxyCK9WRm/pagGNoaLGqPKtTfgm/form"
+                  src="https://florene36562.softr.app/embed/pages/8e9e5fc8-8198-4100-929d-daff69b8fa0e/blocks/form"
                   width="100%"
                   height="1050"
                   style={{ background: "transparent", border: "none", borderRadius: "12px" }}
