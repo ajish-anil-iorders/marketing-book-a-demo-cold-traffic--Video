@@ -29,7 +29,7 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   gap: 38px;
-  align-items: start;
+  align-items: center;
 }
 
 .io-logo-wrap {
@@ -164,6 +164,7 @@ body {
   box-shadow:
     0 20px 28px rgba(15, 23, 42, 0.08),
     0 6px 12px rgba(15, 23, 42, 0.05);
+  overflow: hidden;
 }
 
 .io-form {
@@ -772,7 +773,7 @@ body {
   }
 
   .io-form-card {
-    padding: 30px;
+    padding: 0px 30px;
   }
 
   .io-radio-group {
