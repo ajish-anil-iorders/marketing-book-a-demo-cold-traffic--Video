@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:www.iorders.ca)",
       "Bash(npx next:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Read(//c/Users/ajish/Desktop/Project iOrders/marketing-book-a-demo-cold-traffic/**)"
     ]
   }
 }
